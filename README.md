@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+--------------------
+
+yarn create react-app discord-demo --template-typescript
+
+yarn start
+
+yarn add styled-components
+
+yarn add -D @types/styled-components
